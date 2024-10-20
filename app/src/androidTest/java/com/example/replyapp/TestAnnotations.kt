@@ -1,0 +1,5 @@
+package com.example.replyapp
+
+annotation class TestCompactWidth
+annotation class TestMediumWidth
+annotation class TestExpandedWidth
